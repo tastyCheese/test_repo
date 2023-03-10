@@ -1,0 +1,5 @@
+SECRET.txt
+*.log
+.idea\
+__pycache__\
+venv\
